@@ -1,0 +1,6 @@
+1. WAP in java to find factorial of a number.
+2. WAP in java to display your roll no, name, branch , section, university with system.out.println function.
+3.WAP in java to display grade of a student using switch case statement with conditions (90-100 marks -- O grade , 80-89 -- A, till 50 - 59 -- F grade)
+4. WAP in java to find given number is even or odd.
+5. WAP in java to display prime no. between 0 to 100?
+6. WAP in java to check number is palindrome or not?
