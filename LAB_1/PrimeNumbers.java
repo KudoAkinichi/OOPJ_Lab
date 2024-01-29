@@ -13,7 +13,6 @@ public class PrimeNumbers {
         }
     }
 
-    // Method to check if a number is prime
     private static boolean isPrime(int num) {
         if (num <= 1) {
             return false;

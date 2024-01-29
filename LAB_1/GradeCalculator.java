@@ -7,11 +7,9 @@ public class GradeCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Get input from the user (marks)
         System.out.print("Enter the marks: ");
         int marks = scanner.nextInt();
 
-        // Calculate and display the grade using a switch statement
         char grade;
         switch (marks / 10) {
             case 10:

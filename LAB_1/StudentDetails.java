@@ -3,7 +3,6 @@
 public class StudentDetails {
 
     public static void main(String[] args) {
-        // Student information
         int rollNumber = 22051500;
         String name = "Aryan Krishna";
         String branch = "Computer Science";
