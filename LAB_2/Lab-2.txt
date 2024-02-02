@@ -1,0 +1,13 @@
+Q1. WAP in java to perform following operations with the concept arrays:
+1 find minimum and maximum value in an arrays
+2. reverse a string
+3. transpose of a matrix
+4. multiplication of 2 matrix
+
+Q2. WAP in java to perform following operations using command line arguments concept
+1. Display any five names where these names should be taken from command line.
+2. find simple interest by taking the values p,t,r from command line.
+
+Q3. WAP in java to count number of objects created in a programme using static variable count and a constructor.
+
+Q4. WAP in java to create a class account having data members account number , name ,branch , bank name, balance. now take member functions: void getaccountinformation() function to input account details, display function to display account information, withdraw and deposit function to withdraw and deposit amount into existing balance. Display at least 3 account details with the help of array of objects concept.
