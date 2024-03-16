@@ -1,0 +1,8 @@
+1. Arithmetic, numberformat, arrayoutofboundsexception, nullpointer
+2. wap to handle any exceptions using nested try block and also demonstrate how to rethrow an exception
+3. wap to create 3 different user defined exceptions called hoursexception, minutesexception, secondsexception with the following conditions
+	if(hours < 0 || > 24) then throw hoursexception
+	if(minutes && seconds < 0 || > 60) then throw minutes and seconds exception
+4. wap to practice all string class functions and stringbuffer class methods on the following strings
+	name of student
+	a cat is playing in the garden

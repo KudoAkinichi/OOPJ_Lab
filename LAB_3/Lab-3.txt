@@ -1,0 +1,6 @@
+Q1: WAP in to demonstrate different nested classes.
+Q2: WAP to demonstrate constructor overloading in which you have find area of sphere, cuboid , circle.
+Q3: WAP in java to create a class complex having data members real and imaginary. Initialize real and imaginary value to 0 using default constructor, Initialize 2 complex number using parameter constructor, perform addition & subtraction in 2 different parameterized constructor and display the result.
+
+Q4: WAP in java to create a class distance having data members  feet & inches . Use constructors and functions
+to convert feet value to inches and inches to feet.
